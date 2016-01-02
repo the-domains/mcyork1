@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[mcyork1]]></title>
+        <description><![CDATA[mcyork1]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 02 Jan 2016 02:44:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Stop with all the unnecessary lights!]]></title>
+            <description><![CDATA[<article><h1>Stop with all the unnecessary lights!</h1><p>These products suck.  When they are OFF they should be invisible and silent in every way.  Sony thank you but a red led light on my TV or PS3 does nothing for me when your devices are supposed to be OFF.  The only godsend I’ve encountered is Tivo’s ability to select how annoying or not you want the LEDs to be (and very much OFF is an option).  All off THANK YOU!  The basic hard drive green flashing light is ill conceived when you can’t turn it OFF!  Who cares if the hard drive on a computer is doing stuff.  Really.  YOU don’t.</p><img src="http://mcyork.com/w/wp-content/uploads/2014/03/IMG_3586-300x199.png"></article>]]></description>
+            <link>http://mcyork.com/2014/03/stop-with-all-the-unnecessary-lights/</link>
+            <guid isPermaLink="false">8fb9fce3-bdb8-4ef2-9f55-914089b1df6d</guid>
+            <pubDate>Sat, 02 Jan 2016 02:44:34 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
