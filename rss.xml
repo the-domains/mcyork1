@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[mcyork1]]></title>
         <description><![CDATA[mcyork1]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mcyork1/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jan 2016 02:44:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 02 Jan 2016 02:45:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mcyork1/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Chip programmer with a twist  I am working on 1000 projects all the time.  You may already know that of me.  This one will be a fun adventure.  I’ve started by shrimping.it this is a site where they show you how to build a bare bones Arduino.  I went and ordered the part for 4 kits via the electronics seller http://www.taydaelectronics.com/ it was under $30 for all the parts I needed.  I did not get boards as I plan to design my own at a later phase.   Here’s the shrimp built with an 8 pin chip holder where it can be used to program the little chip.  This is an Atmel ATTiny 85 ready to be programed.  Now the hard part.  Let’s say I want to program a lot of these little chips.  Wouldn’t it be nice if the Arduino held in memory all the code and capabilities to program the chip without an attached USB link to a computer?  That’s goal #2.    Here is an ATTiny 85 running code that was pushed through the Arduino in the traditional manner (Goal #1).  What I like about the Tiny line of chips is there is little to no supporting hardware required to have them run.  This makes them a lot of fun for all kinds of little builds.  They will even run off three or 4 AAA batteries and for quite some time.</p>]]></description>
+            <link>https://thegrid.ai/mcyork1/chip-programmer-with-a-twist-i-am-working-on-1000-projects/index.html</link>
+            <guid isPermaLink="false">5ee7116b-734b-4ad7-b4ad-05519377a5c9</guid>
+            <pubDate>Sat, 02 Jan 2016 02:45:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Stop with all the unnecessary lights!]]></title>
-            <description><![CDATA[<article><h1>Stop with all the unnecessary lights!</h1><p>These products suck.  When they are OFF they should be invisible and silent in every way.  Sony thank you but a red led light on my TV or PS3 does nothing for me when your devices are supposed to be OFF.  The only godsend I’ve encountered is Tivo’s ability to select how annoying or not you want the LEDs to be (and very much OFF is an option).  All off THANK YOU!  The basic hard drive green flashing light is ill conceived when you can’t turn it OFF!  Who cares if the hard drive on a computer is doing stuff.  Really.  YOU don’t.</p><img src="http://mcyork.com/w/wp-content/uploads/2014/03/IMG_3586-300x199.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Stop with all the unnecessary lights!</h1><p>These products suck.  When they are OFF they should be invisible and silent in every way.  Sony thank you but a red led light on my TV or PS3 does nothing for me when your devices are supposed to be OFF.  The only godsend I’ve encountered is Tivo’s ability to select how annoying or not you want the LEDs to be (and very much OFF is an option).  All off THANK YOU!  The basic hard drive green flashing light is ill conceived when you can’t turn it OFF!  Who cares if the hard drive on a computer is doing stuff.  Really.  YOU don’t.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e499ba79a66e9e4e2df392789d396ec43d7ac2a7.png"></article>]]></description>
             <link>http://mcyork.com/2014/03/stop-with-all-the-unnecessary-lights/</link>
             <guid isPermaLink="false">8fb9fce3-bdb8-4ef2-9f55-914089b1df6d</guid>
             <pubDate>Sat, 02 Jan 2016 02:44:34 GMT</pubDate>
